@@ -71,7 +71,7 @@ cd ui-vue3
 npm run build
 
 # 复制构建文件到后端资源目录
-cp -r dist/* ../src/main/resources/static/
+cp -r ui/* ../src/main/resources/static/
 ```
 
 ### 技术栈
